@@ -13,17 +13,18 @@ My solution is is in the python notebook with comments and notes placed as I was
 
 **Accuracy:** %68.9
 **F1 Score:** 0.105
-
-**Confusion Matrix**
-107, 5
+<br />
+**Confusion Matrix**<br />
+107, 5 <br />
 46, 3
 
 ### SVC 
 
 **Accuracy on Test Scores:**  %69.6
 **F1 Score:** 0
-**Confusion Matrix**
-112, 0 
+<br />
+**Confusion Matrix**<br />
+112, 0 <br />
 49 , 0
 ### Reasoning for Choosing Random Forest:
 Looking at these predictions, although SVC has a better overall accuracy, it is just predicting 0s for all candidates, as reflected by the 0 F1 score. Due to this I went with predicting the remainder of the data using random forest
