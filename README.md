@@ -1,10 +1,9 @@
 # Mete Morris Coding Interview
 
 **Files:**
-- metemorris_results.csv: Results of the run
 - solution_metemorris.ipynb : notebook used to obtain the results and values below 
 
-Hi!
+Hi! <br />
 My solution is is in the python notebook with comments and notes placed as I was going along that expresses the process. If you want to check what I did and the methodology it is explained there. 
 
 ## Classifier Choice 
